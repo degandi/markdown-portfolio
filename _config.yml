@@ -5,6 +5,8 @@ theme: jekyll-theme-cayman
 <dl>
   <dt>Welcome to my page</dt>
   <dd>It is still a work in progress, just something to practice Markdown with!</dd>
+  ![Image of Me](https://github.com/degandi/markdown-portfolio/blob/add-images-links/_includes/Photo%20on%205-2-19%20at%203.47%20PM.jpg)
+
 
 
 [![IMAGE](http://img.youtube.com/vi/r1_8rRDHtQ8/0.jpg)](http://www.youtube.com/watch?v=r1_8rRDHtQ8)
