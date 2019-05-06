@@ -1,5 +1,15 @@
-title: Welcome to my portfolio!
+title: Welcome to my project!
 theme: jekyll-theme-cayman
+
+ github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ theme: jekyll-theme-primer
+ gfm_quirks: paragraph_end
 
 # Cody DeGandi
 ## Welcome to my page</dt>
@@ -10,4 +20,3 @@ theme: jekyll-theme-cayman
 
   [![IMAGE](http://img.youtube.com/vi/r1_8rRDHtQ8/0.jpg)](http://www.youtube.com/watch?v=r1_8rRDHtQ8)
 
-  
